@@ -1,2 +1,4 @@
-# spell-checker
-A simple spell checker, it checks the spelling of a given word if misspelled then provides the possible suggestions of correct spelled words having common prefixes.
+# Spell_checker
+A simple spell checker implemented with trie(prefix tree) data structure.
+
+It checks the spelling of a given word, if wrong then provide possible suggestions of correct words for that wrong word having common prefix.
